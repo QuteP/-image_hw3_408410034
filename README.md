@@ -22,7 +22,7 @@ Platform:
 
 - church.py：
 
-  左上是原圖，右上是在RGB處理的結果，左下是在L*a*b*處理的結果，右下是在HSI處理的結果。
+  左上是原圖，右上是在RGB處理的結果，左下是在L* a* b*處理的結果，右下是在HSI處理的結果。
 
   <img src="https://github.com/QuteP/image_hw3_408410034/blob/main/result/Figure_2.png" alt="Figure_2" width=60% height=60% />
 
