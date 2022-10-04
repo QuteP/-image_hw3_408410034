@@ -18,22 +18,22 @@ Platform:
 
   左上是原圖，右上是在RGB處理的結果，左下是在L*a*b*處理的結果，右下是在HSI處理的結果。
 
-  <img src="D:\Document\學習相關\學校課程\大學\舊主要科目\影像處理\作業\result\Figure_1.png" alt="Figure_1" width=75% height=75% />
+  <img src="https://github.com/QuteP/image_hw3_408410034/blob/main/result/Figure_1.png" alt="Figure_1" width=75% height=75% />
 
 - church.py：
 
   左上是原圖，右上是在RGB處理的結果，左下是在L*a*b*處理的結果，右下是在HSI處理的結果。
 
-  <img src="D:\Document\學習相關\學校課程\大學\舊主要科目\影像處理\作業\result\Figure_2.png" alt="Figure_2" width=60% height=60% />
+  <img src="https://github.com/QuteP/image_hw3_408410034/blob/main/result/Figure_2.png" alt="Figure_2" width=60% height=60% />
 
 - house.py：
 
   左上是原圖，右上是在RGB處理的結果，左下是在L*a*b*處理的結果，右下是在HSI處理的結果。
 
-  <img src="D:\Document\學習相關\學校課程\大學\舊主要科目\影像處理\作業\result\Figure_3.png" alt="Figure_3" width=75% height=75% />
+  <img src="https://github.com/QuteP/image_hw3_408410034/blob/main/result/Figure_3.png" alt="Figure_3" width=75% height=75% />
 
 - kitchen.py：
 
   左上是原圖，右上是在RGB處理的結果，左下是在L*a*b*處理的結果，右下是在HSI處理的結果。
 
-  <img src="D:\Document\學習相關\學校課程\大學\舊主要科目\影像處理\作業\result\Figure_4.png" alt="Figure_4" width=60% height=60% />
+  <img src="https://github.com/QuteP/image_hw3_408410034/blob/main/result/Figure_4.png" alt="Figure_4" width=60% height=60% />
